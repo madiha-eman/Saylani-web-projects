@@ -1,0 +1,32 @@
+.myc{
+    background-color:rgb(32, 32, 83);
+    color: white;
+}
+.h3{
+    
+}
+.navbar-nav{
+    margin-left: 20px;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px ; 
+}
+.nav-link:hover{
+    background-color:white;
+    color:rgb(32, 32, 83);
+
+    
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    background-color: rgb(32, 32, 83);
+    color: white;
+}
+.dropdown-menu>.dropdown-item{
+    color: white;
+}
+.dropdown-menu>.dropdown-item:hover{
+    color: rgb(32, 32, 83);
+}
